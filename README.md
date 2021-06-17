@@ -2,7 +2,8 @@
 
 It is a Telegram chat bot code . Where it can able to answer any question asked related to IPL . 
 How to activate is :
-Step 1 : Bot Father in telegram
+Step 1 : Bot Father in telegram 
+
 Step 2 : type /start
 Step 3 : type /newbot
 Step 4 : Choose a name for bot (my bot name is : IPL-Infomation-Bot)
