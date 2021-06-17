@@ -2,7 +2,7 @@
 
 It is a Telegram chat bot code . Where it can able to answer any question asked related to IPL . 
 
-How to activate is : 
+Necessary steps to activate Bot : 
 
 Step 1 : Bot Father in telegram \n
 
